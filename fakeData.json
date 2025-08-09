@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ultra HD Smart TV 55\"",
+      "category": "Electronics",
+      "brand": "Samsung Ultra",
+      "price": 1200.99,
+      "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      "description": "4K UHD Smart TV with HDR and built-in streaming apps",
+      "rating": 4.7,
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Wireless Noise-Cancelling Headphones",
+      "category": "Audio",
+      "brand": "Sony",
+      "price": 1100.99,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      "description": "Premium over-ear headphones with 30-hour battery life",
+      "rating": 4.8,
+      "stock": 42
+    },
+    {
+      "id": 3,
+      "name": "Organic Cotton T-Shirt",
+      "category": "Clothing",
+      "brand": "Patagonia",
+      "price": 1229.99,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      "description": "100% organic cotton crew neck t-shirt",
+      "rating": 4.5,
+      "stock": 87
+    },
+    {
+      "id": 4,
+      "name": "Stainless Steel Water Bottle",
+      "category": "Accessories",
+      "brand": "Hydro Flask",
+      "price": 39.95,
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      "description": "Double-wall vacuum insulated 32oz bottle",
+      "rating": 4.9,
+      "stock": 56
+    },
+    {
+      "id": 5,
+      "name": "Professional Blender",
+      "category": "Kitchen",
+      "brand": "Vitamix",
+      "price": 429.95,
+      "image": "https://images.unsplash.com/photo-1573521193826-58c7dc2e13e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      "description": "High-performance blender with 64oz container",
+      "rating": 4.8,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "brand": "Nike",
+      "price": 129.99,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      "description": "Lightweight running shoes with air cushioning",
+      "rating": 4.6,
+      "stock": 34
+    },
+    {
+      "id": 7,
+      "name": "Smart Watch Series 5",
+      "category": "Wearables",
+      "brand": "Apple",
+      "price": 399.0,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      "description": "GPS smartwatch with heart rate monitor",
+      "rating": 4.7,
+      "stock": 19
+    },
+    {
+      "id": 8,
+      "name": "Ergonomic Office Chair",
+      "category": "Furniture",
+      "brand": "Herman Miller",
+      "price": 1299.0,
+      "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      "description": "Premium ergonomic chair with lumbar support",
+      "rating": 4.9,
+      "stock": 8
+    }
+  ]
+}
